@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "sick-fits\\backend"
+	},
+	{
+		"path": "sick-fits\\frontend"
+	}
+],
+  "settings": {}
+}
